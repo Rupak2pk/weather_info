@@ -12,6 +12,8 @@ Optional python programs will also be created to use said datas in dictionarys r
 
 It will return forecast of however much time you would like to forsee
 
+An example xlsx file was given in the respository to showcase what would be returned.
+
 
 # Changelog
 
