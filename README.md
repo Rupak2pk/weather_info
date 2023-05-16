@@ -7,6 +7,9 @@ Optional python programs will also be created to use said datas in dictionarys r
 
 # How to use
 
+Run the modules.py script to make sure you install all the python modules. Yes I know its very primitive and lazy but Ill work on it.
+
+
 *Enter the latitude and longtitude of any place you desire
 *Enter the amount of hours you would like to forecast (The max is till next week)
 
