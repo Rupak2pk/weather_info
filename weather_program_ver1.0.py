@@ -7,16 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1rhdwBVv51PZuQlw4OAc92AfT6KzpmVk5
 """
 
-#!pip install openpyxl
-#!pip install pandas
-
 import requests
 import json
 #import pprint
 import openpyxl
 import pandas as pd
 import xlsxwriter
-#subprocess.check_call([sys.executable, '-m', 'pip', 'install', ',modulename'])
+
 #pp = pprint.PrettyPrinter(indent=4)
 #--------------------------Starting program--------------------------------------------
 try:
