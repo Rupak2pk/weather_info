@@ -18,8 +18,8 @@ import datetime
 #subprocess.check_call([sys.executable, '-m', 'pip', 'install', ',modulename'])
 #pp = pprint.PrettyPrinter(indent=4)
 #--------------------------Starting program--------------------------------------------
-data_choice = input("Would you like to recieve historical data or a forecast? (1 for historical, any key for forecast): ")
-if(data_choice == 1):
+data_choice = input("Would you like to recieve historical data or a forecast? (1 for forecast, any key for historical): ")
+if(data_choice == "1"):
     try:
       latitude = float(input("enter the latitude of the specificed area you want forecasted: "))
       longtitude = float(input("enter the longtitude of the specificed area you want forecasted: "))
