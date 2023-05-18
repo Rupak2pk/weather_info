@@ -5,6 +5,7 @@ A program that uses the national weather service api to get weather specific wea
 
 Optional python programs will also be created to use said datas in dictionarys rather than excels but excels were used just for the sake of it
 
+There are two example excel files that show what the program will ouput. Rolla Missouri was sadly used as an example 
 # How to use
 
 Run the modules.py script to make sure you install all the python modules. Yes I know its very primitive and lazy but Ill work on it.
@@ -20,10 +21,11 @@ An example xlsx file was given in the respository to showcase what would be retu
 
 # Changelog
 
-none
+Ver 2.0:
+  Code was greatly changed to use a brand new api that could get also gather historical weather data along with irradation and raditation.
 
 # Future Updates
 
-*Allow for option to use historical weather data
+*Allow for option to use historical weather data - DONE
 
-*More weather values to be used
+*More weather values to be used - Eh....
