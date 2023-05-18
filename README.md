@@ -31,6 +31,6 @@ Ver 2.0:
 *More weather values to be used - Eh....
 
 
-#Credit
+# Credit
 
 https://open-meteo.com/ 
