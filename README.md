@@ -29,3 +29,8 @@ Ver 2.0:
 *Allow for option to use historical weather data - DONE
 
 *More weather values to be used - Eh....
+
+
+#Credit
+
+https://open-meteo.com/ 
